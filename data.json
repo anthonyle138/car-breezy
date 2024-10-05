@@ -1,0 +1,894 @@
+{
+    "newCars": [
+        {
+            "id": 1,
+            "model": "2024 Honda Civic",
+            "type": "Sedan",
+            "price": 25000,
+            "image": "/img/New Cars/1_Honda Civic 2024/HondaHome.png",
+            "description": "The Fastest Civic Ever.",
+            "showcaseImages": [
+                "img/New Cars/1_Honda Civic 2024/Showcase1.png",
+                "img/New Cars/1_Honda Civic 2024/Showcase2.png",
+                "img/New Cars/1_Honda Civic 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "img/New Cars/1_Honda Civic 2024/Interior1.png",
+                "img/New Cars/1_Honda Civic 2024/Interior2.png",
+                "img/New Cars/1_Honda Civic 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 2,
+            "model": "2024 Toyota Corolla",
+            "type": "Sedan",
+            "price": 23000,
+            "image": "/img/New Cars/2_Toyota Corolla 2024/HomeToyota.png",
+            "description": "Fun to drive. Styled to be seen.",
+            "showcaseImages": [
+                "/img/New Cars/2_Toyota Corolla 2024/Showcase1.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Showcase2.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/2_Toyota Corolla 2024/Interior1.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Interior2.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 3,
+            "model": "2024 Ford Mustang",
+            "type": "Coupe",
+            "price": 35000,
+            "image": "/img/New Cars/3_Ford Mustang 2024/HomeFord.png",
+            "description": "Unbelievable power. Unlimited thrills.",
+            "showcaseImages": [
+                "/img/New Cars/3_Ford Mustang 2024/Showcase1.png",
+                "/img/New Cars/3_Ford Mustang 2024/Showcase2.png",
+                "/img/New Cars/3_Ford Mustang 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/3_Ford Mustang 2024/Interior1.png",
+                "/img/New Cars/3_Ford Mustang 2024/Interior2.png",
+                "/img/New Cars/3_Ford Mustang 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 4,
+            "model": "2024 Chevrolet Silverado",
+            "type": "Pickup Truck",
+            "price": 40000,
+            "image": "/img/New Cars/4_Chevrolet Silverado 2024/Home.png",
+            "description": "A robust truck designed for both work and play.",
+            "showcaseImages": [
+                "/img/New Cars/4_Chevrolet Silverado 2024/Showcase1.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Showcase2.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/4_Chevrolet Silverado 2024/Interior1.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Interior2.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 5,
+            "model": "2024 Tesla Model 3",
+            "type": "Sedan",
+            "price": 45000,
+            "image": "/img/New Cars/5_Tesla Model 3 2024/Home.png",
+            "description": "Standard and Long Range",
+            "showcaseImages": [
+                "/img/New Cars/5_Tesla Model 3 2024/Showcase1.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Showcase2.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/5_Tesla Model 3 2024/Interior1.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Interior2.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 6,
+            "model": "2024 Hyundai Elantra",
+            "type": "Sedan",
+            "price": 22000,
+            "image": "/img/New Cars/6_Hyundai Elantra 2024/Home.png",
+            "description": "With tech that brings the future one step closer, fresh, streamlined styling and plenty of modern touches everywhere you look, our compact sedan gives you beauty and brains—in spades. 2024 ELANTRA. Its your journey.",
+            "showcaseImages": [
+                "/img/New Cars/6_Hyundai Elantra 2024/Showcase1.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Showcase2.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/6_Hyundai Elantra 2024/Interior1.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Interior2.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 7,
+            "model": "2024 Kia Sportage",
+            "type": "SUV",
+            "price": 29000,
+            "image": "/img/New Cars/7_Kia Sportage 2024/Home.png",
+            "description": "Take control of your adventure and head for uncharted terrain in the 2024 Sportage X-Pro. With spacious seating and uncompromising style, you'll have the power to embrace your journeys with confidence.",
+            "showcaseImages": [
+                "/img/New Cars/7_Kia Sportage 2024/Showcase1.png",
+                "/img/New Cars/7_Kia Sportage 2024/Showcase2.png",
+                "/img/New Cars/7_Kia Sportage 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/7_Kia Sportage 2024/Interior1.png",
+                "/img/New Cars/7_Kia Sportage 2024/Interior2.png",
+                "/img/New Cars/7_Kia Sportage 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 8,
+            "model": "2024 Subaru Outback",
+            "type": "Crossover",
+            "price": 32000,
+            "image": "/img/New Cars/8_Subaru Outback 2024/Home.png",
+            "description": "Go where love takes you.",
+            "showcaseImages": [
+                "/img/New Cars/8_Subaru Outback 2024/Showcase1.png",
+                "/img/New Cars/8_Subaru Outback 2024/Showcase2.png",
+                "/img/New Cars/8_Subaru Outback 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/8_Subaru Outback 2024/Interior1.png",
+                "/img/New Cars/8_Subaru Outback 2024/Interior2.png",
+                "/img/New Cars/8_Subaru Outback 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 9,
+            "model": "2024 Nissan Altima",
+            "type": "Sedan",
+            "price": 24000,
+            "image": "/img/New Cars/9_Nissan Altima 2024/Home.png",
+            "description": "Enter a mid-size sedan with a pulse of refined, responsive performance, upgraded innovative connectivity, and a look that commands attention.",
+            "showcaseImages": [
+                "/img/New Cars/9_Nissan Altima 2024/Showcase1.png",
+                "/img/New Cars/9_Nissan Altima 2024/Showcase2.png",
+                "/img/New Cars/9_Nissan Altima 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/9_Nissan Altima 2024/Interior1.png",
+                "/img/New Cars/9_Nissan Altima 2024/Interior2.png",
+                "/img/New Cars/9_Nissan Altima 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 10,
+            "model": "2024 Volkswagen Jetta",
+            "type": "Sedan",
+            "price": 23000,
+            "image": "/img/New Cars/10_Volkswagen Jetta 2024/Home.png",
+            "description": "Iconic design. Reliable performance. Exceptional fuel efficiency. Legendary German engineering.",
+            "showcaseImages": [
+                "/img/New Cars/10_Volkswagen Jetta 2024/Showcase1.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Showcase2.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/10_Volkswagen Jetta 2024/Interior1.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Interior2.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Interior3.png"
+            ]
+        },
+        {
+            "id": 11,
+            "model": "2024 BMW 3 Series",
+            "type": "Sedan",
+            "price": 42000,
+            "image": "/img/New Cars/Honda Civic 2024/HondaHome.png",
+            "description": "A luxury sedan that delivers performance and comfort.",
+            "showcaseImages": [
+                "path/to/bmw-3series-showcase1.jpg",
+                "path/to/bmw-3series-showcase2.jpg",
+                "path/to/bmw-3series-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/bmw-3series-interior.jpg"
+        },
+        {
+            "id": 12,
+            "model": "2024 Audi Q5",
+            "type": "SUV",
+            "price": 49000,
+            "image": "/img/New Cars/Honda Civic 2024/HondaHome.png",
+            "description": "A luxury SUV that combines style with practicality.",
+            "showcaseImages": [
+                "path/to/audi-q5-showcase1.jpg",
+                "path/to/audi-q5-showcase2.jpg",
+                "path/to/audi-q5-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/audi-q5-interior.jpg"
+        },
+        {
+            "id": 13,
+            "model": "2024 Mercedes-Benz C-Class",
+            "type": "Sedan",
+            "price": 45000,
+            "image": "path/to/mercedes-cclass.jpg",
+            "description": "A luxury sedan that offers sophisticated features and performance.",
+            "showcaseImages": [
+                "path/to/mercedes-cclass-showcase1.jpg",
+                "path/to/mercedes-cclass-showcase2.jpg",
+                "path/to/mercedes-cclass-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/mercedes-cclass-interior.jpg"
+        },
+        {
+            "id": 14,
+            "model": "2024 Hyundai Tucson",
+            "type": "SUV",
+            "price": 31000,
+            "image": "path/to/hyundai-tucson.jpg",
+            "description": "A stylish SUV with advanced safety features.",
+            "showcaseImages": [
+                "path/to/hyundai-tucson-showcase1.jpg",
+                "path/to/hyundai-tucson-showcase2.jpg",
+                "path/to/hyundai-tucson-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/hyundai-tucson-interior.jpg"
+        },
+        {
+            "id": 15,
+            "model": "2024 Ford Explorer",
+            "type": "SUV",
+            "price": 36000,
+            "image": "path/to/ford-explorer.jpg",
+            "description": "A spacious SUV designed for families and adventures.",
+            "showcaseImages": [
+                "path/to/ford-explorer-showcase1.jpg",
+                "path/to/ford-explorer-showcase2.jpg",
+                "path/to/ford-explorer-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/ford-explorer-interior.jpg"
+        },
+        {
+            "id": 16,
+            "model": "2024 Mazda CX-5",
+            "type": "SUV",
+            "price": 32000,
+            "image": "path/to/mazda-cx5.jpg",
+            "description": "A stylish and fun-to-drive compact SUV.",
+            "showcaseImages": [
+                "path/to/mazda-cx5-showcase1.jpg",
+                "path/to/mazda-cx5-showcase2.jpg",
+                "path/to/mazda-cx5-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/mazda-cx5-interior.jpg"
+        },
+        {
+            "id": 17,
+            "model": "2024 Nissan Rogue",
+            "type": "SUV",
+            "price": 28000,
+            "image": "path/to/nissan-rogue.jpg",
+            "description": "A versatile SUV with ample cargo space.",
+            "showcaseImages": [
+                "path/to/nissan-rogue-showcase1.jpg",
+                "path/to/nissan-rogue-showcase2.jpg",
+                "path/to/nissan-rogue-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/nissan-rogue-interior.jpg"
+        },
+        {
+            "id": 18,
+            "model": "2024 Chevrolet Equinox",
+            "type": "SUV",
+            "price": 29000,
+            "image": "path/to/chevrolet-equinox.jpg",
+            "description": "A compact SUV with a comfortable interior.",
+            "showcaseImages": [
+                "path/to/chevrolet-equinox-showcase1.jpg",
+                "path/to/chevrolet-equinox-showcase2.jpg",
+                "path/to/chevrolet-equinox-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/chevrolet-equinox-interior.jpg"
+        },
+        {
+            "id": 19,
+            "model": "2024 Volkswagen Tiguan",
+            "type": "SUV",
+            "price": 31000,
+            "image": "path/to/volkswagen-tiguan.jpg",
+            "description": "A compact SUV with spacious seating and cargo.",
+            "showcaseImages": [
+                "path/to/volkswagen-tiguan-showcase1.jpg",
+                "path/to/volkswagen-tiguan-showcase2.jpg",
+                "path/to/volkswagen-tiguan-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/volkswagen-tiguan-interior.jpg"
+        },
+        {
+            "id": 20,
+            "model": "2024 Volvo XC60",
+            "type": "SUV",
+            "price": 55000,
+            "image": "path/to/volvo-xc60.jpg",
+            "description": "A luxury SUV with a focus on safety and comfort.",
+            "showcaseImages": [
+                "path/to/volvo-xc60-showcase1.jpg",
+                "path/to/volvo-xc60-showcase2.jpg",
+                "path/to/volvo-xc60-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/volvo-xc60-interior.jpg"
+        },
+        {
+            "id": 21,
+            "model": "2024 Acura RDX",
+            "type": "SUV",
+            "price": 43000,
+            "image": "path/to/acura-rdx.jpg",
+            "description": "A luxury compact SUV that combines performance with utility.",
+            "showcaseImages": [
+                "path/to/acura-rdx-showcase1.jpg",
+                "path/to/acura-rdx-showcase2.jpg",
+                "path/to/acura-rdx-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/acura-rdx-interior.jpg"
+        },
+        {
+            "id": 22,
+            "model": "2024 Jeep Wrangler",
+            "type": "SUV",
+            "price": 35000,
+            "image": "path/to/jeep-wrangler.jpg",
+            "description": "An off-road icon that's perfect for adventure seekers.",
+            "showcaseImages": [
+                "path/to/jeep-wrangler-showcase1.jpg",
+                "path/to/jeep-wrangler-showcase2.jpg",
+                "path/to/jeep-wrangler-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/jeep-wrangler-interior.jpg"
+        },
+        {
+            "id": 23,
+            "model": "2024 Ford F-150",
+            "type": "Pickup Truck",
+            "price": 42000,
+            "image": "path/to/ford-f150.jpg",
+            "description": "A rugged truck built for toughness and capability.",
+            "showcaseImages": [
+                "path/to/ford-f150-showcase1.jpg",
+                "path/to/ford-f150-showcase2.jpg",
+                "path/to/ford-f150-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/ford-f150-interior.jpg"
+        },
+        {
+            "id": 24,
+            "model": "2024 Honda CR-V",
+            "type": "SUV",
+            "price": 32000,
+            "image": "path/to/honda-crv.jpg",
+            "description": "A spacious SUV that delivers versatility and efficiency.",
+            "showcaseImages": [
+                "path/to/honda-crv-showcase1.jpg",
+                "path/to/honda-crv-showcase2.jpg",
+                "path/to/honda-crv-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/honda-crv-interior.jpg"
+        },
+        {
+            "id": 25,
+            "model": "2024 Ram 1500",
+            "type": "Pickup Truck",
+            "price": 42000,
+            "image": "path/to/ram-1500.jpg",
+            "description": "A capable truck with a smooth ride and upscale interior.",
+            "showcaseImages": [
+                "path/to/ram-1500-showcase1.jpg",
+                "path/to/ram-1500-showcase2.jpg",
+                "path/to/ram-1500-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/ram-1500-interior.jpg"
+        },
+        {
+            "id": 26,
+            "model": "2024 Porsche Macan",
+            "type": "SUV",
+            "price": 55000,
+            "image": "path/to/porsche-macan.jpg",
+            "description": "A luxury compact SUV with sporty performance.",
+            "showcaseImages": [
+                "path/to/porsche-macan-showcase1.jpg",
+                "path/to/porsche-macan-showcase2.jpg",
+                "path/to/porsche-macan-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/porsche-macan-interior.jpg"
+        },
+        {
+            "id": 27,
+            "model": "2024 Land Rover Range Rover",
+            "type": "SUV",
+            "price": 100000,
+            "image": "path/to/range-rover.jpg",
+            "description": "A luxury SUV with unparalleled off-road capability.",
+            "showcaseImages": [
+                "path/to/range-rover-showcase1.jpg",
+                "path/to/range-rover-showcase2.jpg",
+                "path/to/range-rover-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/range-rover-interior.jpg"
+        },
+        {
+            "id": 28,
+            "model": "2024 Infiniti QX60",
+            "type": "SUV",
+            "price": 59000,
+            "image": "path/to/infiniti-qx60.jpg",
+            "description": "A luxurious midsize SUV that prioritizes comfort.",
+            "showcaseImages": [
+                "path/to/infiniti-qx60-showcase1.jpg",
+                "path/to/infiniti-qx60-showcase2.jpg",
+                "path/to/infiniti-qx60-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/infiniti-qx60-interior.jpg"
+        },
+        {
+            "id": 29,
+            "model": "2024 Lincoln Navigator",
+            "type": "SUV",
+            "price": 80000,
+            "image": "path/to/lincoln-navigator.jpg",
+            "description": "A full-size luxury SUV with an opulent interior.",
+            "showcaseImages": [
+                "path/to/lincoln-navigator-showcase1.jpg",
+                "path/to/lincoln-navigator-showcase2.jpg",
+                "path/to/lincoln-navigator-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/lincoln-navigator-interior.jpg"
+        },
+        {
+            "id": 30,
+            "model": "2024 Tesla Model Y",
+            "type": "SUV",
+            "price": 52000,
+            "image": "path/to/tesla-modely.jpg",
+            "description": "A fully electric SUV with spacious seating and high-tech features.",
+            "showcaseImages": [
+                "path/to/tesla-modely-showcase1.jpg",
+                "path/to/tesla-modely-showcase2.jpg",
+                "path/to/tesla-modely-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/tesla-modely-interior.jpg"
+        }
+    ],
+    "usedCars": [
+        {
+            "id": 1,
+            "model": "2018 Honda Civic",
+            "type": "Sedan",
+            "price": 16000,
+            "image": "/img/Used Cars/1_Honda Civic 2018/Home.png",
+            "description": "Well-maintained and fuel-efficient with a comfortable ride.",
+            "showcaseImages": [
+                "/img/Used Cars/1_Honda Civic 2018/Showcase1.png",
+                "/img/Used Cars/1_Honda Civic 2018/Showcase2.png",
+                "/img/Used Cars/1_Honda Civic 2018/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/1_Honda Civic 2018/Interior1.png",
+                "/img/Used Cars/1_Honda Civic 2018/Interior2.png",
+                "/img/Used Cars/1_Honda Civic 2018/Interior3.png"
+            ]
+        },
+        {
+            "id": 2,
+            "model": "2017 Toyota Corolla",
+            "type": "Sedan",
+            "price": 14000,
+            "image": "/img/Used Cars/2_2017 Toyota Corolla/Home.png",
+            "description": "Reliable and well-equipped with low mileage.",
+            "showcaseImages": [
+                "/img/Used Cars/2_2017 Toyota Corolla/Showcase1.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Showcase2.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/2_2017 Toyota Corolla/Interior1.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Interior2.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Interior3.png"
+            ]
+        },
+        {
+            "id": 3,
+            "model": "2016 Ford Mustang",
+            "type": "Coupe",
+            "price": 24000,
+            "image": "/img/New Cars/Ford Mustang 2024/HomeFord.png",
+            "description": "A sporty coupe with an aggressive look and performance.",
+            "showcaseImages": [
+                "path/to/used-ford-mustang-showcase1.jpg",
+                "path/to/used-ford-mustang-showcase2.jpg",
+                "path/to/used-ford-mustang-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-ford-mustang-interior.jpg"
+        },
+        {
+            "id": 4,
+            "model": "2019 Chevrolet Silverado",
+            "type": "Pickup Truck",
+            "price": 30000,
+            "image": "/img/New Cars/Ford Mustang 2024/HomeFord.png",
+            "description": "A robust truck with towing capabilities and a spacious cabin.",
+            "showcaseImages": [
+                "path/to/used-chevrolet-silverado-showcase1.jpg",
+                "path/to/used-chevrolet-silverado-showcase2.jpg",
+                "path/to/used-chevrolet-silverado-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-chevrolet-silverado-interior.jpg"
+        },
+        {
+            "id": 5,
+            "model": "2018 Tesla Model 3",
+            "type": "Sedan",
+            "price": 36000,
+            "image": "/img/New Cars/Ford Mustang 2024/HomeFord.png",
+            "description": "An electric sedan with high performance and low mileage.",
+            "showcaseImages": [
+                "path/to/used-tesla-model3-showcase1.jpg",
+                "path/to/used-tesla-model3-showcase2.jpg",
+                "path/to/used-tesla-model3-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-tesla-model3-interior.jpg"
+        },
+        {
+            "id": 6,
+            "model": "2020 Hyundai Elantra",
+            "type": "Sedan",
+            "price": 18000,
+            "image": "/img/New Cars/Ford Mustang 2024/HomeFord.png",
+            "description": "A compact sedan with a clean history and modern features.",
+            "showcaseImages": [
+                "path/to/used-hyundai-elantra-showcase1.jpg",
+                "path/to/used-hyundai-elantra-showcase2.jpg",
+                "path/to/used-hyundai-elantra-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-hyundai-elantra-interior.jpg"
+        },
+        {
+            "id": 7,
+            "model": "2017 Kia Sportage",
+            "type": "SUV",
+            "price": 22000,
+            "image": "/img/New Cars/Ford Mustang 2024/HomeFord.png",
+            "description": "A well-equipped SUV with a comfortable ride.",
+            "showcaseImages": [
+                "path/to/used-kia-sportage-showcase1.jpg",
+                "path/to/used-kia-sportage-showcase2.jpg",
+                "path/to/used-kia-sportage-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-kia-sportage-interior.jpg"
+        },
+        {
+            "id": 8,
+            "model": "2018 Subaru Outback",
+            "type": "Crossover",
+            "price": 25000,
+            "image": "/img/New Cars/Ford Mustang 2024/HomeFord.png",
+            "description": "A versatile crossover with all-wheel drive capabilities.",
+            "showcaseImages": [
+                "path/to/used-subaru-outback-showcase1.jpg",
+                "path/to/used-subaru-outback-showcase2.jpg",
+                "path/to/used-subaru-outback-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-subaru-outback-interior.jpg"
+        },
+        {
+            "id": 9,
+            "model": "2019 Nissan Altima",
+            "type": "Sedan",
+            "price": 17000,
+            "image": "/img/New Cars/Ford Mustang 2024/HomeFord.png",
+            "description": "A comfortable sedan with great fuel efficiency.",
+            "showcaseImages": [
+                "path/to/used-nissan-altima-showcase1.jpg",
+                "path/to/used-nissan-altima-showcase2.jpg",
+                "path/to/used-nissan-altima-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-nissan-altima-interior.jpg"
+        },
+        {
+            "id": 10,
+            "model": "2020 Volkswagen Jetta",
+            "type": "Sedan",
+            "price": 19000,
+            "image": "path/to/used-volkswagen-jetta.jpg",
+            "description": "A compact sedan with a premium feel and spacious interior.",
+            "showcaseImages": [
+                "path/to/used-volkswagen-jetta-showcase1.jpg",
+                "path/to/used-volkswagen-jetta-showcase2.jpg",
+                "path/to/used-volkswagen-jetta-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-volkswagen-jetta-interior.jpg"
+        },
+        {
+            "id": 11,
+            "model": "2018 BMW 3 Series",
+            "type": "Sedan",
+            "price": 36000,
+            "image": "path/to/used-bmw-3series.jpg",
+            "description": "A luxury sedan that delivers performance and comfort.",
+            "showcaseImages": [
+                "path/to/used-bmw-3series-showcase1.jpg",
+                "path/to/used-bmw-3series-showcase2.jpg",
+                "path/to/used-bmw-3series-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-bmw-3series-interior.jpg"
+        },
+        {
+            "id": 12,
+            "model": "2017 Audi Q5",
+            "type": "SUV",
+            "price": 38000,
+            "image": "path/to/used-audi-q5.jpg",
+            "description": "A luxury SUV with a blend of comfort and capability.",
+            "showcaseImages": [
+                "path/to/used-audi-q5-showcase1.jpg",
+                "path/to/used-audi-q5-showcase2.jpg",
+                "path/to/used-audi-q5-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-audi-q5-interior.jpg"
+        },
+        {
+            "id": 13,
+            "model": "2019 Mercedes-Benz C-Class",
+            "type": "Sedan",
+            "price": 45000,
+            "image": "path/to/used-mercedes-cclass.jpg",
+            "description": "A luxury sedan with sophisticated features.",
+            "showcaseImages": [
+                "path/to/used-mercedes-cclass-showcase1.jpg",
+                "path/to/used-mercedes-cclass-showcase2.jpg",
+                "path/to/used-mercedes-cclass-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-mercedes-cclass-interior.jpg"
+        },
+        {
+            "id": 14,
+            "model": "2020 Hyundai Tucson",
+            "type": "SUV",
+            "price": 21000,
+            "image": "path/to/used-hyundai-tucson.jpg",
+            "description": "A stylish SUV with advanced safety features.",
+            "showcaseImages": [
+                "path/to/used-hyundai-tucson-showcase1.jpg",
+                "path/to/used-hyundai-tucson-showcase2.jpg",
+                "path/to/used-hyundai-tucson-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-hyundai-tucson-interior.jpg"
+        },
+        {
+            "id": 15,
+            "model": "2018 Jeep Cherokee",
+            "type": "SUV",
+            "price": 24000,
+            "image": "path/to/used-jeep-cherokee.jpg",
+            "description": "A capable SUV with excellent off-road abilities.",
+            "showcaseImages": [
+                "path/to/used-jeep-cherokee-showcase1.jpg",
+                "path/to/used-jeep-cherokee-showcase2.jpg",
+                "path/to/used-jeep-cherokee-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-jeep-cherokee-interior.jpg"
+        },
+        {
+            "id": 16,
+            "model": "2017 Ford Escape",
+            "type": "SUV",
+            "price": 19000,
+            "image": "path/to/used-ford-escape.jpg",
+            "description": "A versatile SUV with user-friendly technology.",
+            "showcaseImages": [
+                "path/to/used-ford-escape-showcase1.jpg",
+                "path/to/used-ford-escape-showcase2.jpg",
+                "path/to/used-ford-escape-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-ford-escape-interior.jpg"
+        },
+        {
+            "id": 17,
+            "model": "2021 Toyota RAV4",
+            "type": "SUV",
+            "price": 30000,
+            "image": "path/to/used-toyota-rav4.jpg",
+            "description": "A popular SUV with a strong reputation for reliability.",
+            "showcaseImages": [
+                "path/to/used-toyota-rav4-showcase1.jpg",
+                "path/to/used-toyota-rav4-showcase2.jpg",
+                "path/to/used-toyota-rav4-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-toyota-rav4-interior.jpg"
+        },
+        {
+            "id": 18,
+            "model": "2020 Subaru Forester",
+            "type": "SUV",
+            "price": 27000,
+            "image": "path/to/used-subaru-forester.jpg",
+            "description": "A spacious and capable SUV for all seasons.",
+            "showcaseImages": [
+                "path/to/used-subaru-forester-showcase1.jpg",
+                "path/to/used-subaru-forester-showcase2.jpg",
+                "path/to/used-subaru-forester-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-subaru-forester-interior.jpg"
+        },
+        {
+            "id": 19,
+            "model": "2020 Jeep Compass",
+            "type": "SUV",
+            "price": 24000,
+            "image": "path/to/used-jeep-compass.jpg",
+            "description": "A compact SUV with a user-friendly infotainment system.",
+            "showcaseImages": [
+                "path/to/used-jeep-compass-showcase1.jpg",
+                "path/to/used-jeep-compass-showcase2.jpg",
+                "path/to/used-jeep-compass-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-jeep-compass-interior.jpg"
+        },
+        {
+            "id": 20,
+            "model": "2019 Honda HR-V",
+            "type": "Crossover",
+            "price": 22000,
+            "image": "path/to/used-honda-hrv.jpg",
+            "description": "A versatile crossover with plenty of cargo space.",
+            "showcaseImages": [
+                "path/to/used-honda-hrv-showcase1.jpg",
+                "path/to/used-honda-hrv-showcase2.jpg",
+                "path/to/used-honda-hrv-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-honda-hrv-interior.jpg"
+        },
+        {
+            "id": 21,
+            "model": "2019 Kia Soul",
+            "type": "Hatchback",
+            "price": 19000,
+            "image": "path/to/used-kia-soul.jpg",
+            "description": "A unique hatchback with a spacious interior.",
+            "showcaseImages": [
+                "path/to/used-kia-soul-showcase1.jpg",
+                "path/to/used-kia-soul-showcase2.jpg",
+                "path/to/used-kia-soul-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-kia-soul-interior.jpg"
+        },
+        {
+            "id": 22,
+            "model": "2018 Jeep Cherokee",
+            "type": "SUV",
+            "price": 24000,
+            "image": "path/to/used-jeep-cherokee.jpg",
+            "description": "A capable SUV with excellent off-road abilities.",
+            "showcaseImages": [
+                "path/to/used-jeep-cherokee-showcase1.jpg",
+                "path/to/used-jeep-cherokee-showcase2.jpg",
+                "path/to/used-jeep-cherokee-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-jeep-cherokee-interior.jpg"
+        },
+        {
+            "id": 23,
+            "model": "2017 Ford Escape",
+            "type": "SUV",
+            "price": 19000,
+            "image": "path/to/used-ford-escape.jpg",
+            "description": "A versatile SUV with user-friendly technology.",
+            "showcaseImages": [
+                "path/to/used-ford-escape-showcase1.jpg",
+                "path/to/used-ford-escape-showcase2.jpg",
+                "path/to/used-ford-escape-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-ford-escape-interior.jpg"
+        },
+        {
+            "id": 24,
+            "model": "2021 Toyota RAV4",
+            "type": "SUV",
+            "price": 30000,
+            "image": "path/to/used-toyota-rav4.jpg",
+            "description": "A popular SUV with a strong reputation for reliability.",
+            "showcaseImages": [
+                "path/to/used-toyota-rav4-showcase1.jpg",
+                "path/to/used-toyota-rav4-showcase2.jpg",
+                "path/to/used-toyota-rav4-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-toyota-rav4-interior.jpg"
+        },
+        {
+            "id": 25,
+            "model": "2020 Subaru Forester",
+            "type": "SUV",
+            "price": 27000,
+            "image": "path/to/used-subaru-forester.jpg",
+            "description": "A spacious and capable SUV for all seasons.",
+            "showcaseImages": [
+                "path/to/used-subaru-forester-showcase1.jpg",
+                "path/to/used-subaru-forester-showcase2.jpg",
+                "path/to/used-subaru-forester-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-subaru-forester-interior.jpg"
+        },
+        {
+            "id": 26,
+            "model": "2020 Jeep Compass",
+            "type": "SUV",
+            "price": 24000,
+            "image": "path/to/used-jeep-compass.jpg",
+            "description": "A compact SUV with a user-friendly infotainment system.",
+            "showcaseImages": [
+                "path/to/used-jeep-compass-showcase1.jpg",
+                "path/to/used-jeep-compass-showcase2.jpg",
+                "path/to/used-jeep-compass-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-jeep-compass-interior.jpg"
+        },
+        {
+            "id": 27,
+            "model": "2019 Honda HR-V",
+            "type": "Crossover",
+            "price": 22000,
+            "image": "path/to/used-honda-hrv.jpg",
+            "description": "A versatile crossover with plenty of cargo space.",
+            "showcaseImages": [
+                "path/to/used-honda-hrv-showcase1.jpg",
+                "path/to/used-honda-hrv-showcase2.jpg",
+                "path/to/used-honda-hrv-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-honda-hrv-interior.jpg"
+        },
+        {
+            "id": 28,
+            "model": "2018 Nissan Murano",
+            "type": "SUV",
+            "price": 26000,
+            "image": "path/to/used-nissan-murano.jpg",
+            "description": "A stylish SUV with premium features.",
+            "showcaseImages": [
+                "path/to/used-nissan-murano-showcase1.jpg",
+                "path/to/used-nissan-murano-showcase2.jpg",
+                "path/to/used-nissan-murano-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-nissan-murano-interior.jpg"
+        },
+        {
+            "id": 29,
+            "model": "2017 Hyundai Santa Fe",
+            "type": "SUV",
+            "price": 21000,
+            "image": "path/to/used-hyundai-santa-fe.jpg",
+            "description": "A comfortable SUV with plenty of room for passengers.",
+            "showcaseImages": [
+                "path/to/used-hyundai-santa-fe-showcase1.jpg",
+                "path/to/used-hyundai-santa-fe-showcase2.jpg",
+                "path/to/used-hyundai-santa-fe-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-hyundai-santa-fe-interior.jpg"
+        },
+        {
+            "id": 30,
+            "model": "2021 Ford Bronco",
+            "type": "SUV",
+            "price": 38000,
+            "image": "path/to/used-ford-bronco.jpg",
+            "description": "A rugged SUV built for off-road adventures.",
+            "showcaseImages": [
+                "path/to/used-ford-bronco-showcase1.jpg",
+                "path/to/used-ford-bronco-showcase2.jpg",
+                "path/to/used-ford-bronco-showcase3.jpg"
+            ],
+            "interiorImage": "path/to/used-ford-bronco-interior.jpg"
+        }
+    ]
+}

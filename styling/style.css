@@ -1,0 +1,285 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin-left: 20px;
+}
+
+nav {
+  flex-grow: 1;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: inline-flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  margin: 0 1rem;
+}
+
+nav a,
+nav button {
+  text-decoration: none;
+  color: #333;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+  border: none;
+  background: none;
+}
+
+nav a:hover,
+nav button:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.visitor-icon {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.visitor-icon img {
+  width: 24px;
+  height: auto;
+  margin-right: 5px;
+}
+
+.visitor-count {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+main {
+  margin: 2rem;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.search-bar input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.search-bar button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.search-bar button:hover {
+  background-color: #0056b3;
+}
+
+.car-listings {
+  margin-top: 2rem;
+  padding: 2rem 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin: 1.5rem 0;
+  text-align: center;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 0.5rem;
+  color: #333;
+}
+
+.car-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.car-item {
+  flex: 1 1 calc(33% - 1rem);
+  text-align: center;
+  background: #f8f9fa;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.car-item img {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  border-radius: 10px;
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.scroll-to-top:hover {
+  background-color: #0056b3;
+}
+
+footer {
+  text-align: center;
+  padding: 0.5rem;
+  background-color: #f0f0f0;
+}
+
+.slideshow {
+  position: relative;
+  overflow: hidden;
+  height: auto;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.slideshow-container {
+  display: flex;
+  transition: transform 1s ease-in-out;
+  width: 100%;
+}
+
+.slide {
+  min-width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.button-container {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  text-align: center;
+}
+
+.round-button {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #bbb;
+  border: none;
+  margin: 0 5px;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s;
+}
+
+.round-button.active {
+  background-color: #007bff;
+}
+
+.round-button:hover {
+  background-color: #0056b3;
+}
+
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav ul {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .car-item {
+    flex: 1 1 calc(50% - 1rem);
+  }
+
+  .slideshow {
+    height: auto;
+  }
+
+  .search-bar input {
+    width: 90%;
+    max-width: 300px;
+  }
+
+  .search-bar {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .car-item {
+    flex: 1 1 100%;
+  }
+
+  .search-bar input,
+  .search-bar button {
+    width: 90%;
+  }
+
+  .scroll-to-top {
+    bottom: 15px;
+    right: 15px;
+  }
+
+  .slideshow {
+    height: auto;
+  }
+}
+
+.car-main-image {
+  width: 100%;
+  height: auto;
+  max-height: 800px;
+  border-radius: 10px;
+  object-fit: cover;
+}
