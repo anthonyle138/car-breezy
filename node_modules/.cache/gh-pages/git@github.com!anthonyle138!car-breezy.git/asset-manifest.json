@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/car-breezy/static/css/main.5cb60bff.css",
+    "main.js": "/car-breezy/static/js/main.14c9240d.js",
+    "static/media/Slide2.png": "/car-breezy/static/media/Slide2.332ad0e5bd3b68cec217.png",
+    "static/media/Slide4.png": "/car-breezy/static/media/Slide4.20ecd4da29a9f7a75af5.png",
+    "static/media/Slide3.png": "/car-breezy/static/media/Slide3.2c84f0ff58bdc2bfa3bc.png",
+    "static/media/Slide1.png": "/car-breezy/static/media/Slide1.5504337ece43d10fe608.png",
+    "static/media/Slide5.png": "/car-breezy/static/media/Slide5.49241147d63ffb735fc4.png",
+    "static/media/logo.png": "/car-breezy/static/media/logo.1cb148e4b51627614321.png",
+    "index.html": "/car-breezy/index.html",
+    "static/media/person-svgrepo-com.svg": "/car-breezy/static/media/person-svgrepo-com.431b0119278a762b7985d2549fbe862e.svg",
+    "main.5cb60bff.css.map": "/car-breezy/static/css/main.5cb60bff.css.map",
+    "main.14c9240d.js.map": "/car-breezy/static/js/main.14c9240d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb60bff.css",
+    "static/js/main.14c9240d.js"
+  ]
+}
